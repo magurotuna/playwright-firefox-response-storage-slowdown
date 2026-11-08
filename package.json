@@ -1,0 +1,7 @@
+{
+  "name": "playwright-firefox-response-storage-slowdown",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "dependencies": { "playwright": "1.65.0" }
+}
